@@ -5,8 +5,13 @@ p{
 h3{
     color:pink;
     background-color:brown;
+    border-radius: 10px;
+    text-align:center;
+    box-shadow:10px 10px 10px gray;
 }
 #pic{
     width:60%;
     height:500px;
+    border-radius: 100px;
+    border-color: brown;
 }
